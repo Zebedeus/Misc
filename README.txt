@@ -9,7 +9,7 @@ Infiniminer server posting @ http://apps.keithholman.net/post
 
 P2 server listing @ http://infiniserver.appspot.com/servers/listing-
 
-p2 sever posting @ http://infiniserver.appspot.com/servers/heartbeat
+p2 server posting @ http://infiniserver.appspot.com/servers/heartbeat
 
 
 p2 map file header (mix of ascii and hex)
